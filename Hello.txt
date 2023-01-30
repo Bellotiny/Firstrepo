@@ -1,3 +1,8 @@
 fee fi fo fum
 The ogre got jack
+<<<<<<< Updated upstream
 Nope
+=======
+
+AYAYAYA
+>>>>>>> Stashed changes
